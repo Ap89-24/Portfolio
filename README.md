@@ -41,7 +41,6 @@ It highlights my work in full-stack development, 3D web experiences, and AI-base
 ## 📂 Sections Included
 
 - Home
-- About Me
 - Skills
 - Projects
 - Contact
