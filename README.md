@@ -5,7 +5,7 @@ An interactive and modern personal portfolio website showcasing my projects, ski
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-portfolio-link.com  
+🔗 https://amanpatel-portfolio.netlify.app  
 
 ---
 
