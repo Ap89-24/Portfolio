@@ -24,6 +24,7 @@ import {
     tailwindcss,
     threads,
     typescript,
+    //expense2,
 
 } from "../assets/icons";
 
@@ -227,6 +228,35 @@ export const projects = [
         name: 'TO-DO List Project',
         description: 'A simple and intuitive task management application that helps users add, edit, and organize their daily tasks. Designed with a clean UI and real-time updates to boost productivity and stay organized.',
         link: 'https://github.com/Ap89-24',
+    },
+    {  iconUrl: estate,
+        theme: 'btn-back-yellow',
+        name: 'Expense Tracker',
+        description: 'Expense Tracker helps you monitor your daily spending, manage budgets, and gain better control over your finances with simple and smart tracking tools.',
+        link: 'https://github.com/Ap89-24/Expense-Tracker',
+
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-yellow',
+        name: 'Tourist Safety and Management App',
+        description: 'An all-in-one safety companion for tourists featuring emergency contacts, location tracking, and real-time safety updates.',
+        link: 'https://github.com/Ap89-24/Tourist-Safety-and-Management',
+
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-yellow',
+        name: '3D-Website using GSAP',
+        description: 'An interactive 3D web experience built to deliver immersive visuals and modern UI using advanced web technologies.',
+        link: 'https://github.com/Ap89-24/creative-frontend-project',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-yellow',
+        name: 'AI-Code-Review',
+        description: 'An AI-powered code review system that analyzes code quality, detects bugs, and suggests improvements in real-time.',
+        link: 'https://github.com/Ap89-24/AI-Code-Review',
     }
 ];
 
